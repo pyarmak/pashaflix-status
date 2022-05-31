@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/serve.yarmak.me",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.35%",
+    "uptimeDay": "57.14%",
+    "uptimeWeek": "93.88%",
+    "uptimeMonth": "98.59%",
+    "uptimeYear": "99.35%",
     "time": 420,
-    "timeDay": 313,
-    "timeWeek": 384,
+    "timeDay": 0,
+    "timeWeek": 369,
     "timeMonth": 402,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2022-05-30": 0
+      "2022-05-31": 44,
+      "2022-05-30": 573
     }
   }
 ]
